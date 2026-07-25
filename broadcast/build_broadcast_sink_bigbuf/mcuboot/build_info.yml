@@ -1,0 +1,65 @@
+cmake:
+  application:
+    configuration-dir: '/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/sysbuild/mcuboot'
+    source-dir: '/home/t/asset-tracker-template/bootloader/mcuboot/boot/zephyr'
+  board:
+    name: 'aurascope'
+    path:
+     - '/home/t/asset-tracker-template/nrf/boards/aurascope/aurascope'
+    qualifiers: 'nrf5340/cpuapp'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - '/home/t/asset-tracker-template/nrf/dts/bindings'
+     - '/home/t/asset-tracker-template/zephyr/dts/bindings'
+    extra-user-files:
+     - '/home/t/asset-tracker-template/nrf/modules/mcuboot/flash_sim.overlay'
+    files:
+     - '/home/t/asset-tracker-template/nrf/boards/aurascope/aurascope/aurascope_nrf5340_cpuapp.dts'
+     - '/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/sysbuild/mcuboot/boards/aurascope_nrf5340_cpuapp_fota.overlay'
+     - '/home/t/asset-tracker-template/nrf/modules/mcuboot/flash_sim.overlay'
+    include-dirs:
+     - '/home/t/asset-tracker-template/nrf/include'
+     - '/home/t/asset-tracker-template/nrf/dts/common'
+     - '/home/t/asset-tracker-template/nrf/dts/riscv'
+     - '/home/t/asset-tracker-template/nrf/dts/arm'
+     - '/home/t/asset-tracker-template/nrf/dts'
+     - '/home/t/asset-tracker-template/bootloader/mcuboot/boot/zephyr/include'
+     - '/home/t/asset-tracker-template/zephyr/include'
+     - '/home/t/asset-tracker-template/zephyr/include/zephyr'
+     - '/home/t/asset-tracker-template/zephyr/dts/common'
+     - '/home/t/asset-tracker-template/zephyr/dts/vendor'
+     - '/home/t/asset-tracker-template/zephyr/dts/rx'
+     - '/home/t/asset-tracker-template/zephyr/dts/x86'
+     - '/home/t/asset-tracker-template/zephyr/dts/xtensa'
+     - '/home/t/asset-tracker-template/zephyr/dts/sparc'
+     - '/home/t/asset-tracker-template/zephyr/dts/riscv'
+     - '/home/t/asset-tracker-template/zephyr/dts/posix'
+     - '/home/t/asset-tracker-template/zephyr/dts/arm64'
+     - '/home/t/asset-tracker-template/zephyr/dts/arm'
+     - '/home/t/asset-tracker-template/zephyr/dts/arc'
+     - '/home/t/asset-tracker-template/zephyr/dts'
+    user-files:
+     - '/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/sysbuild/mcuboot/boards/aurascope_nrf5340_cpuapp_fota.overlay'
+  kconfig:
+    extra-user-files:
+     - '/home/t/asset-tracker-template/nrf/subsys/bootloader/bl_override/override_external_mcuboot.conf'
+     - '/home/t/asset-tracker-template/nrf/subsys/partition_manager/ext_flash_mcuboot_secondary.conf'
+    files:
+     - '/home/t/asset-tracker-template/nrf/boards/aurascope/aurascope/aurascope_nrf5340_cpuapp_defconfig'
+     - '/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/sysbuild/mcuboot/prj_fota.conf'
+     - '/home/t/asset-tracker-template/nrf/subsys/bootloader/bl_override/override_external_mcuboot.conf'
+     - '/home/t/asset-tracker-template/nrf/subsys/partition_manager/ext_flash_mcuboot_secondary.conf'
+     - '/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_bigbuf/mcuboot/zephyr/.config.sysbuild'
+    user-files:
+     - '/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/sysbuild/mcuboot/prj_fota.conf'
+  toolchain:
+    name: 'zephyr'
+    path: '/home/t/ncs/toolchains/c5be9c56c7/opt/zephyr-sdk'
+  vendor-specific:
+    nordic:
+      svdfile: '/home/t/asset-tracker-template/modules/hal/nordic/nrfx/bsp/stable/mdk/nrf5340_application.svd'
+  zephyr:
+    version: '4.3.99'
+    zephyr-base: '/home/t/asset-tracker-template/zephyr'
+version: '0.1.0'

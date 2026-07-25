@@ -1,0 +1,6 @@
+/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim.c:214:13:event_handler	0	static
+/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim.c:247:12:i2c_nrfx_twim_init	16	static
+/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim.c:325:1:pre_init0	4	static
+/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim.c:63:12:i2c_nrfx_twim_transfer	120	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim.c:40:5:i2c_nrfx_twim_exclusive_access_acquire	0	static
+/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim.c:54:6:i2c_nrfx_twim_exclusive_access_release	0	static

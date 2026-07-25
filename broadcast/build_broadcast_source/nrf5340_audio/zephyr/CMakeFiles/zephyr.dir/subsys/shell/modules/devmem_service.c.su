@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/subsys/shell/modules/devmem_service.c:307:12:cmd_devmem	24	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/modules/devmem_service.c:87:12:cmd_dump	64	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/modules/devmem_service.c:213:12:cmd_load	32	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/modules/devmem_service.c:161:13:bypass_cb	32	static

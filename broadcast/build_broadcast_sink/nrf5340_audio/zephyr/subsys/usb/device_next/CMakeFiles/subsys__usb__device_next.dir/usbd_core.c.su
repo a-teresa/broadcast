@@ -1,0 +1,6 @@
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_core.c:34:12:usbd_event_carrier	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_core.c:289:12:usbd_pre_init	48	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_core.c:86:13:usbd_class_bcast_event.part.0	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_core.c:214:13:usbd_thread	104	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_core.c:233:5:usbd_device_init_core	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_core.c:254:5:usbd_device_shutdown_core	24	static

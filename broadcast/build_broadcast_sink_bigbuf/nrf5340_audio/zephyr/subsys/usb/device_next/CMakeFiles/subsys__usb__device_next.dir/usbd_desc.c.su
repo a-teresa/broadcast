@@ -1,0 +1,5 @@
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_desc.c:83:24:usbd_get_descriptor	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_desc.c:106:5:usbd_desc_remove_all	4	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_desc.c:120:5:usbd_add_descriptor	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_desc.c:205:9:usbd_str_desc_get_idx	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_desc.c:214:6:usbd_remove_descriptor	0	static

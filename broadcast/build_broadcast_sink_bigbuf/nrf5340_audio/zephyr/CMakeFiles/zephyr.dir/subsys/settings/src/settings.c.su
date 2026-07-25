@@ -1,0 +1,11 @@
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:32:6:settings_init	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:41:5:settings_register_with_cprio	24	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:69:5:settings_register	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:75:5:settings_name_steq	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:114:5:settings_name_next	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:146:33:settings_parse_and_lookup	40	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:201:5:settings_call_set_handler	88	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:263:5:settings_commit_subtree	40	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:241:5:settings_commit	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:324:6:settings_lock_take	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings.c:331:6:settings_lock_release	0	static

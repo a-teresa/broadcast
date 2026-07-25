@@ -1,0 +1,16 @@
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:132:16:queue_insert	40	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:30:7:z_queue_node_peek	8	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:58:6:z_impl_k_queue_init	0	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:99:6:z_impl_k_queue_cancel_wait	24	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:188:6:k_queue_insert	16	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:197:6:k_queue_append	16	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:206:6:k_queue_prepend	16	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:215:9:z_impl_k_queue_alloc_append	16	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:236:9:z_impl_k_queue_alloc_prepend	16	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:257:5:k_queue_append_list	56	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:300:5:k_queue_merge_slist	8	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:335:7:z_impl_k_queue_get	40	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:372:6:k_queue_remove	4	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:383:6:k_queue_unique_append	16	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:404:7:z_impl_k_queue_peek_head	0	static
+/home/t/asset-tracker-template/zephyr/kernel/queue.c:413:7:z_impl_k_queue_peek_tail	0	static

@@ -1,0 +1,13 @@
+# Target labels
+ ipc_radio
+# Source files and their labels
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/CMakeFiles/ipc_radio
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/CMakeFiles/ipc_radio.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/CMakeFiles/ipc_radio-complete.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-build.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-configure.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-download.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-install.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-mkdir.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-patch.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-update.rule

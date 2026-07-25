@@ -1,0 +1,8 @@
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:54:12:init_mbox_module	16	static
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:210:12:mbox_message_put	56	static
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:155:13:mbox_message_dispose	8	static
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:87:6:k_mbox_init	0	static
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:295:5:k_mbox_put	4	static
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:311:6:k_mbox_async_put	40	static
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:335:6:k_mbox_data_get	8	static
+/home/t/asset-tracker-template/zephyr/kernel/mailbox.c:382:5:k_mbox_get	48	static

@@ -1,0 +1,8 @@
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:212:12:adc_nrfx_channel_setup	40	static
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:684:12:init_saadc.part.0	56	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:285:13:adc_context_start_sampling.part.0.constprop	0	static
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:285:13:adc_context_start_sampling.constprop	8	static
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:347:13:external_timer_expired_handler	0	static
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:648:13:event_handler	16	static
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:611:12:adc_nrfx_read	40	static
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_nrfx_saadc.c:684:12:init_saadc	8	static

@@ -1,0 +1,3 @@
+/home/t/asset-tracker-template/zephyr/subsys/timing/timing.c:15:6:timing_init	8	static
+/home/t/asset-tracker-template/zephyr/subsys/timing/timing.c:32:6:timing_start	0	static
+/home/t/asset-tracker-template/zephyr/subsys/timing/timing.c:47:6:timing_stop	0	static

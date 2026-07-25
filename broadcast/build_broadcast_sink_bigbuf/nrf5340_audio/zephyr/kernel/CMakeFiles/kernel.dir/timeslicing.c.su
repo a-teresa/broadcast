@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/kernel/timeslicing.c:61:13:slice_timeout	8	static
+/home/t/asset-tracker-template/zephyr/kernel/timeslicing.c:75:6:z_reset_time_slice	24	static
+/home/t/asset-tracker-template/zephyr/kernel/timeslicing.c:97:6:k_sched_time_slice_set	24	static
+/home/t/asset-tracker-template/zephyr/kernel/timeslicing.c:131:6:z_time_slice	16	static

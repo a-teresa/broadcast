@@ -1,0 +1,9 @@
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:105:12:addr_print	192	dynamic,bounded
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:233:13:advertising_process	96	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:343:5:bt_mgmt_manufacturer_uuid_populate	16	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:354:5:bt_mgmt_adv_buffer_put	4	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:374:5:bt_mgmt_per_adv_stop	8	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:387:5:bt_mgmt_ext_adv_stop	16	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:406:5:bt_mgmt_adv_start	48	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:309:6:bt_mgmt_dir_adv_timed_out	48	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:476:6:bt_mgmt_adv_init	24	static

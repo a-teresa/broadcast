@@ -1,0 +1,14 @@
+default: nrf5340_audio
+build_dir: /home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_bigbuf
+domains:
+  - name: nrf5340_audio
+    build_dir: /home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_bigbuf/nrf5340_audio
+  - name: mcuboot
+    build_dir: /home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_bigbuf/mcuboot
+  - name: ipc_radio
+    build_dir: /home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_bigbuf/ipc_radio
+  - name: b0n
+    build_dir: /home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_bigbuf/b0n
+flash_order:
+  - ipc_radio
+  - nrf5340_audio

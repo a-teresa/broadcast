@@ -1,0 +1,3 @@
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_fprintf.c:11:12:out_func	16	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_fprintf.c:33:6:z_shell_fprintf_fmt	8	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_fprintf.c:44:6:z_shell_fprintf_buffer_flush	8	static

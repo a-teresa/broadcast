@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/common/rpa.c:84:6:bt_rpa_irk_matches	40	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/common/rpa.c:122:5:bt_rpa_create	0	static

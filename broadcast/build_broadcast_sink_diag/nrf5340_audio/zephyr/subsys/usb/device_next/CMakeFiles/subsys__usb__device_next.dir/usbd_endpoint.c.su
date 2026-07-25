@@ -1,0 +1,11 @@
+/home/t/asset-tracker-template/zephyr/include/zephyr/drivers/usb/udc.h:708:36:udc_get_buf_info.part.0	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:20:5:usbd_ep_enable	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:35:5:usbd_ep_disable	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:102:5:usbd_ep_ctrl_enqueue	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:125:17:usbd_ep_buf_alloc	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:133:5:usbd_ep_enqueue	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:150:5:usbd_ep_buf_free	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:155:5:usbd_ep_dequeue	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:160:5:usbd_ep_set_halt	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:176:5:usbd_ep_clear_halt	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_endpoint.c:192:6:usbd_ep_is_halted	0	static

@@ -1,0 +1,13 @@
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:54:5:nrfx_rtc_init	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:91:6:nrfx_rtc_uninit	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:106:6:nrfx_rtc_init_check	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:112:6:nrfx_rtc_enable	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:121:6:nrfx_rtc_disable	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:130:5:nrfx_rtc_cc_disable	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:159:5:nrfx_rtc_cc_set	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:204:6:nrfx_rtc_tick_enable	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:212:6:nrfx_rtc_tick_disable	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:220:6:nrfx_rtc_overflow_enable	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:227:6:nrfx_rtc_overflow_disable	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:234:10:nrfx_rtc_max_ticks_get	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_rtc.c:250:6:nrfx_rtc_irq_handler	24	static

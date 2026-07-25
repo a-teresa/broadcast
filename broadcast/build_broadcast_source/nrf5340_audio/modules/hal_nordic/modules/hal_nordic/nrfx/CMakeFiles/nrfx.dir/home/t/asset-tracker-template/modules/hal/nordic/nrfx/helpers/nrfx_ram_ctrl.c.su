@@ -1,0 +1,7 @@
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/helpers/nrfx_ram_ctrl.c:84:13:ram_ctrl_block_section_power_enable_set	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/helpers/nrfx_ram_ctrl.c:91:13:ram_ctrl_block_section_retention_enable_set	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/helpers/nrfx_ram_ctrl.c:98:13:ram_ctrl_block_section_iterate	24	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/helpers/nrfx_ram_ctrl.c:142:6:nrfx_ram_ctrl_power_enable_set	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/helpers/nrfx_ram_ctrl.c:150:6:nrfx_ram_ctrl_power_enable_all_set	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/helpers/nrfx_ram_ctrl.c:156:6:nrfx_ram_ctrl_retention_enable_set	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/helpers/nrfx_ram_ctrl.c:164:6:nrfx_ram_ctrl_retention_enable_all_set	8	static

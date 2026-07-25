@@ -1,0 +1,9 @@
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:48:1:usbd_config_get_current.part.0	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:32:26:usbd_config_get	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:48:1:usbd_config_get_current	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:95:6:usbd_config_exist	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:106:5:usbd_config_set	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:146:5:usbd_config_attrib_rwup	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:188:5:usbd_config_attrib_self	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:222:5:usbd_config_maxpower	32	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_config.c:252:5:usbd_add_configuration	24	static

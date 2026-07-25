@@ -1,0 +1,10 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:49:6:bt_bap_qos_cfg_to_iso_qos	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:64:6:bt_bap_stream_init	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:80:6:bt_bap_stream_attach	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:97:21:bt_bap_stream_iso_chan_get	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:106:6:bt_bap_stream_cb_register	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:112:5:bt_bap_ep_get_info	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:176:17:bt_bap_ep_get_conn	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:201:25:bt_audio_verify_qos	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:242:6:bt_audio_valid_codec_cfg	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/bap_stream.c:298:6:bt_bap_valid_qos_pref	0	static

@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_eddsa.c:31:14:oberon_eddsa_sign_hash_with_context	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_eddsa.c:93:14:oberon_eddsa_sign_message_with_context	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_eddsa.c:155:14:oberon_eddsa_verify_hash_with_context	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_eddsa.c:220:14:oberon_eddsa_verify_message_with_context	0	static

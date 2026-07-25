@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/arch/arm/core/fatal.c:22:13:esf_dump	176	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/arch/arm/core/fatal.c:70:6:z_arm_fatal_error	16	static
+/home/t/asset-tracker-template/zephyr/arch/arm/core/fatal.c:107:6:z_do_kernel_oops	16	static
+/home/t/asset-tracker-template/zephyr/arch/arm/core/fatal.c:150:20:arch_syscall_oops	112	static

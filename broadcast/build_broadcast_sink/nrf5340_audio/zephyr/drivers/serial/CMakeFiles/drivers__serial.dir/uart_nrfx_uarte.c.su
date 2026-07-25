@@ -1,0 +1,5 @@
+/home/t/asset-tracker-template/zephyr/drivers/serial/uart_nrfx_uarte.c:686:12:uarte_nrfx_err_check	0	static
+/home/t/asset-tracker-template/zephyr/drivers/serial/uart_nrfx_uarte.c:2561:12:uarte_nrfx_poll_in	4	static
+/home/t/asset-tracker-template/zephyr/drivers/serial/uart_nrfx_uarte.c:475:13:uarte_nrfx_isr_int	0	static
+/home/t/asset-tracker-template/zephyr/drivers/serial/uart_nrfx_uarte.c:3403:1:uarte_0_init	40	static
+/home/t/asset-tracker-template/zephyr/drivers/serial/uart_nrfx_uarte.c:2597:13:uarte_nrfx_poll_out	24	static

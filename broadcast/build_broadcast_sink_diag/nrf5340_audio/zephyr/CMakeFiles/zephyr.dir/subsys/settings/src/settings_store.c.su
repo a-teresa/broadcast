@@ -1,0 +1,15 @@
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:209:5:settings_save_one	24	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:117:12:settings_get_val_len_default_cb	16	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:97:12:settings_set_default_cb	32	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:26:6:settings_src_register	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:31:6:settings_dst_register	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:41:5:settings_load_subtree	32	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:36:5:settings_load	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:64:5:settings_load_subtree_direct	24	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:136:9:settings_get_val_len	40	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:169:9:settings_load_one	80	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:228:5:settings_delete	16	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:238:5:settings_save_subtree	32	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:233:5:settings_save	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:287:5:settings_storage_get	8	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_store.c:302:6:settings_store_init	0	static

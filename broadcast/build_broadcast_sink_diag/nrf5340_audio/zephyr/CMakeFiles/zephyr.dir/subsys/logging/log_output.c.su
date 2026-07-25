@@ -1,0 +1,8 @@
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:129:12:print_formatted	12	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:93:12:out_func	32	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:119:12:cr_out_func	16	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:647:6:log_output_process	72	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:693:6:log_output_msg_process	56	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:712:6:log_output_dropped_process	40	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:729:6:log_output_timestamp_freq_set	0	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_output.c:743:10:log_output_timestamp_to_us	8	static

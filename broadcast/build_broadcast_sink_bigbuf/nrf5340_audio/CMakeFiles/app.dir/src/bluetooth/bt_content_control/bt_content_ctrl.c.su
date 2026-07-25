@@ -1,0 +1,6 @@
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_content_control/bt_content_ctrl.c:39:5:bt_content_ctrl_start	16	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_content_control/bt_content_ctrl.c:64:5:bt_content_ctrl_stop	16	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_content_control/bt_content_ctrl.c:89:5:bt_content_ctrl_conn_disconnected	0	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_content_control/bt_content_ctrl.c:106:5:bt_content_ctrl_discover	0	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_content_control/bt_content_ctrl.c:121:5:bt_content_ctrl_uuid_populate	0	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_content_control/bt_content_ctrl.c:134:5:bt_content_ctrl_init	0	static

@@ -1,0 +1,14 @@
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/hal/nrf_gpio.h:974:35:nrf_gpio_pin_port_decode.part.0	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:392:12:spim_configuration_verify	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:190:13:spim_abort	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:618:13:spim_pin_uninit	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:224:13:pin_init.constprop	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:431:13:spim_configure	40	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:533:5:nrfx_spim_init	24	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:592:5:nrfx_spim_reconfigure	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:632:6:nrfx_spim_uninit	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:683:6:nrfx_spim_init_check	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:905:5:nrfx_spim_xfer	24	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:693:5:nrfx_spim_xfer_dcx	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:956:6:nrfx_spim_abort	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_spim.c:967:6:nrfx_spim_irq_handler	8	static

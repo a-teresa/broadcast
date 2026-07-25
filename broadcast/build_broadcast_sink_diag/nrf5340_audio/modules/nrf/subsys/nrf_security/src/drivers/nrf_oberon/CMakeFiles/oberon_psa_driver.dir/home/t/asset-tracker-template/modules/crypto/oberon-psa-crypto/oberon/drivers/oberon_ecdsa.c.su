@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_ecdsa.c:202:14:oberon_ecdsa_sign_hash	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_ecdsa.c:288:14:oberon_ecdsa_verify_hash	0	static

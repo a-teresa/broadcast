@@ -1,0 +1,6 @@
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/rsc_table_parser.c:62:12:handle_trace_rsc	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/rsc_table_parser.c:139:12:handle_dummy_rsc	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/rsc_table_parser.c:74:12:handle_vdev_rsc	24	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/rsc_table_parser.c:26:12:handle_carve_out_rsc	32	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/rsc_table_parser.c:158:5:handle_rsc_table	24	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/rsc_table_parser.c:214:8:find_rsc	16	static

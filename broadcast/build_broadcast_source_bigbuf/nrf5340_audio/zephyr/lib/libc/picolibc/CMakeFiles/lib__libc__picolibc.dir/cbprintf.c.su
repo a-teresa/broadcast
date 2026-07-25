@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/lib/libc/picolibc/cbprintf.c:15:12:cbputc	8	static
+/home/t/asset-tracker-template/zephyr/lib/libc/picolibc/cbprintf.c:23:5:cbvprintf	32	static

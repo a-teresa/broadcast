@@ -1,0 +1,15 @@
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:916:14:uac2_get_desc	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:409:13:write_explicit_feedback	40	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:267:1:uac2_buf_alloc.part.0	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:929:12:uac2_init.part.0	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:929:12:uac2_init	0	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:745:12:uac2_control_to_dev	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:151:1:get_as_feedback_ep.isra	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:129:1:get_as_data_ep.isra	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:767:12:uac2_control_to_host	32	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:346:13:schedule_iso_out_read	56	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:453:6:uac2_update	40	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:865:13:uac2_sof	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:790:12:uac2_request	64	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:215:6:usbd_uac2_set_ops	16	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/class/usbd_uac2.c:290:5:usbd_uac2_send	48	static

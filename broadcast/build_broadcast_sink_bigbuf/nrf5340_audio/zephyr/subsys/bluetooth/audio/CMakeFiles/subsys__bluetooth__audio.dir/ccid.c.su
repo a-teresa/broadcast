@@ -1,0 +1,3 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/ccid.c:25:16:ccid_attr_cb	40	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/ccid.c:45:28:bt_ccid_find_attr	40	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/ccid.c:58:5:bt_ccid_alloc_value	64	static

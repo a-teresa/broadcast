@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/lib/os/cbprintf_complete.c:791:14:encode_uint	40	static
+/home/t/asset-tracker-template/zephyr/lib/os/cbprintf_complete.c:1370:5:z_cbvprintf_impl	136	static

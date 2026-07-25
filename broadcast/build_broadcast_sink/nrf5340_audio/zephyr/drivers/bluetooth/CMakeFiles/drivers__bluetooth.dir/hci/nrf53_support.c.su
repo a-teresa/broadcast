@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/nrf53_support.c:19:5:bt_hci_transport_teardown	8	static
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/nrf53_support.c:29:5:bt_hci_transport_setup	8	static

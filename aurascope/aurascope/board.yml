@@ -1,0 +1,9 @@
+board:
+  name: aurascope
+  full_name: Aurascope
+  vendor: nordic
+  socs:
+  - name: 'nrf5340'
+    variants:
+    - name: 'ns'
+      cpucluster: 'cpuapp'

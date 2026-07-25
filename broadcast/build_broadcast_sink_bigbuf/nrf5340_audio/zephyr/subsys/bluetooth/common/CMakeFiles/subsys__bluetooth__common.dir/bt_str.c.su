@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/common/bt_str.c:19:13:bt_hex	12	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/common/bt_str.c:38:13:bt_addr_str	40	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/common/bt_str.c:47:13:bt_addr_le_str	56	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/common/bt_str.c:56:13:bt_uuid_str	8	static

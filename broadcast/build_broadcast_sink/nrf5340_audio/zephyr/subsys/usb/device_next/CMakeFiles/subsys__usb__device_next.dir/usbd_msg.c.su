@@ -1,0 +1,5 @@
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_msg.c:55:13:msg_work_handler	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_msg.c:32:20:usbd_msg_pub	32	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_msg.c:90:5:usbd_msg_register_cb	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_msg.c:110:6:usbd_msg_pub_simple	8	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_msg.c:127:6:usbd_msg_pub_device	8	static

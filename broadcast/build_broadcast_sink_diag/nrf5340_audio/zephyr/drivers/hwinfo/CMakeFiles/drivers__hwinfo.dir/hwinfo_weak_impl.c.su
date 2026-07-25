@@ -1,0 +1,5 @@
+/home/t/asset-tracker-template/zephyr/drivers/hwinfo/hwinfo_weak_impl.c:9:16:z_impl_hwinfo_get_device_id	0	static
+/home/t/asset-tracker-template/zephyr/drivers/hwinfo/hwinfo_weak_impl.c:14:12:z_impl_hwinfo_get_device_eui64	0	static
+/home/t/asset-tracker-template/zephyr/drivers/hwinfo/hwinfo_weak_impl.c:19:12:z_impl_hwinfo_get_reset_cause	0	static
+/home/t/asset-tracker-template/zephyr/drivers/hwinfo/hwinfo_weak_impl.c:24:12:z_impl_hwinfo_clear_reset_cause	0	static
+/home/t/asset-tracker-template/zephyr/drivers/hwinfo/hwinfo_weak_impl.c:29:12:z_impl_hwinfo_get_supported_reset_cause	0	static

@@ -1,0 +1,14 @@
+identifier: aurascope/nrf5340/cpunet
+name: Aurascope-NRF5340-network-MCU
+type: mcu
+arch: arm
+toolchain:
+  - gnuarmemb
+  - zephyr
+ram: 64
+flash: 256
+supported:
+  - arduino_gpio
+  - gpio
+  - watchdog
+vendor: nordic

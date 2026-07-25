@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/uuid.c:33:13:uuid_to_uuid128	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/uuid.c:62:5:bt_uuid_cmp	48	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/uuid.c:81:6:bt_uuid_create	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/uuid.c:103:6:bt_uuid_to_str	32	static

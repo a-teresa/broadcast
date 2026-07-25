@@ -1,0 +1,6 @@
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/sw_codec_select.c:56:12:sw_codec_sample_rate_convert	40	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/sw_codec_select.c:87:6:sw_codec_is_initialized	0	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/sw_codec_select.c:92:5:sw_codec_encode	2104	dynamic,bounded
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/sw_codec_select.c:237:5:sw_codec_decode	2152	dynamic,bounded
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/sw_codec_select.c:390:5:sw_codec_uninit	8	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/sw_codec_select.c:439:5:sw_codec_init	48	static

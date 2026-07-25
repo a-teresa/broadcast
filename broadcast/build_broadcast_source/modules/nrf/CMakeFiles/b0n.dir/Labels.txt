@@ -1,0 +1,13 @@
+# Target labels
+ b0n
+# Source files and their labels
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/CMakeFiles/b0n
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/CMakeFiles/b0n.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/CMakeFiles/b0n-complete.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-build.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-configure.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-download.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-install.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-mkdir.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-patch.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-update.rule

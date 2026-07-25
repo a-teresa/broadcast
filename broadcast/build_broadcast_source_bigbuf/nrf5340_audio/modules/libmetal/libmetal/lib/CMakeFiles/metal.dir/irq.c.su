@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/irq.c:50:5:metal_irq_register_controller	16	static
+/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/irq.c:109:5:metal_irq_register	16	static
+/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/irq.c:132:6:metal_irq_enable	8	static
+/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/irq.c:137:6:metal_irq_disable	8	static

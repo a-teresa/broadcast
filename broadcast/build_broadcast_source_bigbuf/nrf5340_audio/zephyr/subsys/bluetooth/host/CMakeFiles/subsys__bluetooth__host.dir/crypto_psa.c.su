@@ -1,0 +1,5 @@
+/home/t/asset-tracker-template/zephyr/include/zephyr/sys/byteorder.h:686:20:sys_memcpy_swap.part.0	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/crypto_psa.c:32:5:bt_crypto_init	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/crypto_psa.c:44:5:bt_rand	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/crypto_psa.c:66:5:bt_encrypt_le	104	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/crypto_psa.c:118:5:bt_encrypt_be	80	static

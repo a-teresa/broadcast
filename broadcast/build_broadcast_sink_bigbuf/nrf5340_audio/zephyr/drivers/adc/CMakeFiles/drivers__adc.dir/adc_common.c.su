@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_common.c:38:5:adc_gain_invert	8	static
+/home/t/asset-tracker-template/zephyr/drivers/adc/adc_common.c:54:5:adc_gain_invert_64	16	static

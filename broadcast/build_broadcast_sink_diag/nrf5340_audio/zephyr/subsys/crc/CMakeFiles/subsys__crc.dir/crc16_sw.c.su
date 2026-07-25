@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/subsys/crc/crc16_sw.c:9:17:crc16	4	static
+/home/t/asset-tracker-template/zephyr/subsys/crc/crc16_sw.c:29:17:crc16_reflect	4	static
+/home/t/asset-tracker-template/zephyr/subsys/crc/crc16_sw.c:49:17:crc16_ccitt	0	static
+/home/t/asset-tracker-template/zephyr/subsys/crc/crc16_sw.c:63:17:crc16_itu_t	0	static

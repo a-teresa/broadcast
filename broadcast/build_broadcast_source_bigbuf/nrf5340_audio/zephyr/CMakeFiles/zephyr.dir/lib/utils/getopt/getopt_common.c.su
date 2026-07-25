@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/lib/utils/getopt/getopt_common.c:50:6:z_getopt_global_state_update	16	static
+/home/t/asset-tracker-template/zephyr/lib/utils/getopt/getopt_common.c:64:26:sys_getopt_state_get	0	static

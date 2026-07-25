@@ -1,0 +1,13 @@
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:1147:13:qspi_nor_pages_layout	0	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:1157:1:qspi_flash_get_parameters	0	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:1169:5:qspi_nor_get_size	0	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:387:13:qspi_handler	0	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:401:12:qspi_send_cmd.constprop	24	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:322:13:qspi_release	8	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:296:13:qspi_acquire	16	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:480:12:qspi_wait_while_writing.isra	56	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:997:12:qspi_nor_erase	56	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:1095:12:qspi_nor_init	168	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:854:12:qspi_nor_read	56	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:945:12:qspi_nor_write	56	static
+/home/t/asset-tracker-template/zephyr/drivers/flash/nrf_qspi_nor.c:1361:6:z_impl_nrf_qspi_nor_xip_enable	40	static

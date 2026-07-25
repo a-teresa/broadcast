@@ -1,0 +1,12 @@
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:17:5:ipc_service_open_instance	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:41:5:ipc_service_close_instance	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:65:5:ipc_service_register_endpoint	16	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:90:5:ipc_service_deregister_endpoint	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:123:5:ipc_service_send	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:147:5:ipc_service_send_critical	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:171:5:ipc_service_get_tx_buffer_size	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:200:5:ipc_service_get_tx_buffer	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:229:5:ipc_service_drop_tx_buffer	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:258:5:ipc_service_send_nocopy	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:287:5:ipc_service_hold_rx_buffer	8	static
+/home/t/asset-tracker-template/zephyr/subsys/ipc/ipc_service/ipc_service.c:316:5:ipc_service_release_rx_buffer	8	static

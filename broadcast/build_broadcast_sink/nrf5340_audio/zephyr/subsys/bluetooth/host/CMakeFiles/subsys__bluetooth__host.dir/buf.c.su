@@ -1,0 +1,10 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:42:13:buf_rx_freed_notify	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:84:13:acl_in_pool_destroy	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:63:13:iso_rx_freed_cb	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:90:13:evt_pool_destroy	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:118:17:bt_buf_get_rx	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:145:6:bt_buf_rx_freed_cb_set	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:154:17:bt_buf_get_evt	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:209:17:bt_buf_make_view	24	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:247:6:bt_buf_destroy_view	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/buf.c:262:6:bt_buf_has_view	0	static

@@ -1,0 +1,8 @@
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:115:13:dropped	0	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:211:13:process_msg_from_buffer.isra	24	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:83:13:panic	8	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:232:13:process	32	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:14:5:z_shell_log_backend_output_func	8	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:26:6:z_shell_log_backend_enable	16	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:50:6:z_shell_log_backend_disable	8	static
+/home/t/asset-tracker-template/zephyr/subsys/shell/shell_log_backend.c:56:6:z_shell_log_backend_process	24	static

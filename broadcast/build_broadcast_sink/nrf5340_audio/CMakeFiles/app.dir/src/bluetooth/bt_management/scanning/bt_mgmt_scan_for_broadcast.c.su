@@ -1,0 +1,14 @@
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:53:13:scan_restart_worker	16	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:321:12:pa_sync_req_cb	16	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:76:13:pa_sync_timeout	8	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:249:13:pa_sync_terminated_cb	56	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:375:13:broadcast_code_cb	56	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:362:12:pa_sync_term_req_cb	56	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:139:13:scan_check_broadcast_source	24	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:183:13:scan_recv_cb	168	dynamic,bounded
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:390:12:bis_sync_req_cb.part.0	56	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:390:12:bis_sync_req_cb	8	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:223:13:pa_synced_cb	168	dynamic,bounded
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:415:6:bt_mgmt_broadcast_code_ptr_get	0	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:425:6:bt_mgmt_scan_delegator_init	8	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:438:5:bt_mgmt_scan_for_broadcast_start	24	static

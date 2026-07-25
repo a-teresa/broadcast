@@ -1,0 +1,7 @@
+/home/t/asset-tracker-template/zephyr/lib/utils/ring_buffer.c:12:10:ring_buf_area_claim	8	static
+/home/t/asset-tracker-template/zephyr/lib/utils/ring_buffer.c:31:5:ring_buf_area_finish	4	static
+/home/t/asset-tracker-template/zephyr/lib/utils/ring_buffer.c:53:10:ring_buf_put	24	static
+/home/t/asset-tracker-template/zephyr/lib/utils/ring_buffer.c:78:10:ring_buf_get	24	static
+/home/t/asset-tracker-template/zephyr/lib/utils/ring_buffer.c:105:10:ring_buf_peek	24	static
+/home/t/asset-tracker-template/zephyr/lib/utils/ring_buffer.c:144:5:ring_buf_item_put	24	static
+/home/t/asset-tracker-template/zephyr/lib/utils/ring_buffer.c:186:5:ring_buf_item_get	24	static

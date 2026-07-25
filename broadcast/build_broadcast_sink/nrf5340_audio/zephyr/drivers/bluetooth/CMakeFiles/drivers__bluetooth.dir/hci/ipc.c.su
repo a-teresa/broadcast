@@ -1,0 +1,7 @@
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/ipc.c:263:12:bt_ipc_send	24	static
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/ipc.c:301:13:hci_ept_recv	56	static
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/ipc.c:293:13:hci_ept_bound	0	static
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/ipc.c:308:12:bt_hci_transport_setup	0	static
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/ipc.c:320:12:bt_ipc_open	16	static
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/ipc.c:314:12:bt_hci_transport_teardown	0	static
+/home/t/asset-tracker-template/zephyr/drivers/bluetooth/hci/ipc.c:356:12:bt_ipc_close	16	static

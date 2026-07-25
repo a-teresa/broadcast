@@ -1,0 +1,15 @@
+/*
+ * Copyright (c) 2026 Nordic Semiconductor ASA
+ *
+ * SPDX-License-Identifier: LicenseRef-Nordic-5-Clause
+ */
+
+/* Mic-only USB sink mode (CONFIG_AUDIO_SINK_USB) only ever uses uac2_headset.
+ * Having both uac2_headset and uac2_headphones registered as separate UAC2
+ * class instances at once exhausts available endpoint addresses, so disable
+ * the unused one here. Apply this overlay explicitly via
+ * -DEXTRA_DTC_OVERLAY_FILE alongside -DCONFIG_AUDIO_SINK_USB=y.
+ */
+&uac2_headphones {
+	status = "disabled";
+};

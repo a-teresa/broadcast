@@ -1,0 +1,8 @@
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:54:13:clock_stop	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:78:5:nrfx_clock_hfclk_init	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:103:6:nrfx_clock_hfclk_init_check	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:108:6:nrfx_clock_hfclk_uninit	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:117:6:nrfx_clock_hfclk_start	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:135:6:nrfx_clock_hfclk_stop	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:142:6:nrfx_clock_hfclk_divider_set	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclk.c:149:6:nrfx_clock_hfclk_irq_handler	0	static

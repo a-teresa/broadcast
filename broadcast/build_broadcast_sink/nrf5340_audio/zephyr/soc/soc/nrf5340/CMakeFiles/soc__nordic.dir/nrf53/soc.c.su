@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/soc.c:337:6:z_arm_on_enter_cpu_idle	24	static
+/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/soc.c:484:6:soc_early_init_hook	8	static
+/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/soc.c:566:6:soc_late_init_hook	24	static
+/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/soc.c:580:6:arch_busy_wait	0	static

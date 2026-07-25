@@ -1,0 +1,12 @@
+/home/t/asset-tracker-template/zephyr/kernel/events.c:147:17:k_event_post_internal	48	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:259:17:k_event_wait_internal	56	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:107:12:event_walk_op	8	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:54:6:z_impl_k_event_init	8	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:201:10:z_impl_k_event_post	0	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:215:10:z_impl_k_event_set	0	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:229:10:z_impl_k_event_set_masked	0	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:245:10:z_impl_k_event_clear	0	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:328:10:z_impl_k_event_wait	0	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:348:10:z_impl_k_event_wait_all	0	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:367:10:z_impl_k_event_wait_safe	0	static
+/home/t/asset-tracker-template/zephyr/kernel/events.c:386:10:z_impl_k_event_wait_all_safe	0	static

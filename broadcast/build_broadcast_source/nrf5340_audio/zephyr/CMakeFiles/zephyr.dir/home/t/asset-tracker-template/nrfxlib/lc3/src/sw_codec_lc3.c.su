@@ -1,0 +1,7 @@
+/home/t/asset-tracker-template/nrfxlib/lc3/src/sw_codec_lc3.c:63:5:sw_codec_lc3_enc_run	48	static
+/home/t/asset-tracker-template/nrfxlib/lc3/src/sw_codec_lc3.c:110:5:sw_codec_lc3_dec_run	32	static
+/home/t/asset-tracker-template/nrfxlib/lc3/src/sw_codec_lc3.c:160:5:sw_codec_lc3_enc_uninit_all	24	static
+/home/t/asset-tracker-template/nrfxlib/lc3/src/sw_codec_lc3.c:175:5:sw_codec_lc3_dec_uninit_all	24	static
+/home/t/asset-tracker-template/nrfxlib/lc3/src/sw_codec_lc3.c:190:5:sw_codec_lc3_init	16	static
+/home/t/asset-tracker-template/nrfxlib/lc3/src/sw_codec_lc3.c:263:5:sw_codec_lc3_enc_init	56	static
+/home/t/asset-tracker-template/nrfxlib/lc3/src/sw_codec_lc3.c:317:5:sw_codec_lc3_dec_init	32	static

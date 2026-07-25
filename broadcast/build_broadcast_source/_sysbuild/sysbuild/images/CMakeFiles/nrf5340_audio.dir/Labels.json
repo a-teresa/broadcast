@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/CMakeFiles/nrf5340_audio"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/CMakeFiles/nrf5340_audio.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/CMakeFiles/nrf5340_audio-complete.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-build.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-configure.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-download.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-install.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-mkdir.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-patch.rule"
+		},
+		{
+			"file" : "/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_source/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nrf5340_audio"
+		],
+		"name" : "nrf5340_audio"
+	}
+}

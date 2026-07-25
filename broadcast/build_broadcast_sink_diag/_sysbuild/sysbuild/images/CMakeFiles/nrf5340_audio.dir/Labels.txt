@@ -1,0 +1,13 @@
+# Target labels
+ nrf5340_audio
+# Source files and their labels
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/CMakeFiles/nrf5340_audio
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/CMakeFiles/nrf5340_audio.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/CMakeFiles/nrf5340_audio-complete.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-build.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-configure.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-download.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-install.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-mkdir.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-patch.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink_diag/_sysbuild/sysbuild/images/nrf5340_audio-prefix/src/nrf5340_audio-stamp/nrf5340_audio-update.rule

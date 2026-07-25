@@ -1,0 +1,8 @@
+/home/t/asset-tracker-template/zephyr/include/zephyr/sys/cbprintf.h:528:19:z_cbprintf_cpy	16	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_msg.c:31:6:z_log_msg_finalize	16	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_msg.c:130:6:z_impl_z_log_msg_simple_create_0	16	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_msg.c:179:6:z_impl_z_log_msg_simple_create_1	24	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_msg.c:229:6:z_impl_z_log_msg_simple_create_2	24	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_msg.c:280:6:z_impl_z_log_msg_static_create	128	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_msg.c:345:6:z_log_msg_runtime_vcreate	64	static
+/home/t/asset-tracker-template/zephyr/subsys/logging/log_msg.c:410:9:log_msg_get_source_id	0	static

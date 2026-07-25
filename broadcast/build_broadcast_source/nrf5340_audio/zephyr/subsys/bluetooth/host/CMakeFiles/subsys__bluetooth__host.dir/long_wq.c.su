@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/long_wq.c:33:12:long_wq_init	40	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/long_wq.c:18:5:bt_long_wq_schedule	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/long_wq.c:23:5:bt_long_wq_reschedule	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/long_wq.c:28:5:bt_long_wq_submit	0	static

@@ -1,0 +1,9 @@
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:14:14:z_alloc_helper	40	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:58:6:k_free	0	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:80:7:k_aligned_alloc	0	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:91:7:k_malloc	0	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:102:7:k_calloc	16	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:125:7:k_realloc	24	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:167:6:k_thread_system_pool_assign	0	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:196:7:z_thread_aligned_alloc	16	static
+/home/t/asset-tracker-template/zephyr/kernel/mempool.c:201:7:z_thread_malloc	8	static

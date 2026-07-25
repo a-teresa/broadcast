@@ -1,0 +1,59 @@
+cd /home/t/asset-tracker-template/nrf/applications/nrf5340_audio
+source /home/t/asset-tracker-template/.venv/bin/activate
+export ZEPHYR_TOOLCHAIN_VARIANT=zephyr
+export ZEPHYR_SDK_INSTALL_DIR=/home/t/ncs/toolchains/c5be9c56c7/opt/zephyr-sdk
+
+west build -b aurascope/nrf5340/cpuapp -d build_broadcast_sink -- -DEXTRA_CONF_FILE="broadcast_sink/overlay-broadcast_sink.conf" -DCONFIG_AUDIO_SINK_USB=y -DFILE_SUFFIX=fota
+
+
+
+
+#####
+
+
+
+west build -b aurascope/nrf5340/cpuapp -d build_broadcast_source -- -DEXTRA_CONF_FILE="broadcast_source/overlay-broadcast_source.conf" -DFILE_SUFFIX=fota -DCONFIG_AUDIO_SOURCE_I2S=y
+
+
+
+#####
+
+west flash -d build_broadcast_sink
+west flash -d build_broadcast_source
+
+
+
+
+
+source /home/t/asset-tracker-template/.venv/bin/activate && which python west && python --version && west --version
+
+# Broadcast source (gateway / "server")
+west build -b aurascope/nrf5340/cpuapp --pristine -d build_broadcast_source -- -DEXTRA_CONF_FILE="broadcast_source/overlay-broadcast_source.conf"
+
+
+# Broadcast sink (headset / "client")
+west build -b aurascope/nrf5340/cpuapp --pristine -d build_broadcast_sink -- -DEXTRA_CONF_FILE="broadcast_sink/overlay-broadcast_sink.conf"
+
+
+
+west build -b aurascope/nrf5340/cpuapp --pristine -d build_broadcast_source -- -DEXTRA_CONF_FILE="broadcast_source/overlay-broadcast_source.conf" -DFILE_SUFFIX=fota
+
+
+
+#####################################
+
+cd /home/t/asset-tracker-template/nrf/applications/nrf5340_audio
+source /home/t/asset-tracker-template/.venv/bin/activate
+export ZEPHYR_TOOLCHAIN_VARIANT=zephyr
+export ZEPHYR_SDK_INSTALL_DIR=/home/t/ncs/toolchains/c5be9c56c7/opt/zephyr-sdk
+
+# Broadcast source (gateway)
+west build -b aurascope/nrf5340/cpuapp --pristine -d build_broadcast_source -- -DEXTRA_CONF_FILE="broadcast_source/overlay-broadcast_source.conf" -DFILE_SUFFIX=fota
+
+# Broadcast sink (headset)
+west build -b aurascope/nrf5340/cpuapp --pristine -d build_broadcast_sink -- -DEXTRA_CONF_FILE="broadcast_sink/overlay-broadcast_sink.conf" -DFILE_SUFFIX=fota
+
+#####################################################
+#with microphone
+
+west build -b aurascope/nrf5340/cpuapp -d build_broadcast_source -- -DEXTRA_CONF_FILE="broadcast_source/overlay-broadcast_source.conf" -DFILE_SUFFIX=fota -DCONFIG_AUDIO_SOURCE_I2S=y

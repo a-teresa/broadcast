@@ -1,0 +1,10 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:169:13:cap_stream_started_cb	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:188:13:cap_stream_stopped_cb	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:223:13:cap_stream_sent_cb	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:236:13:cap_stream_connected_cb	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:252:13:cap_stream_disconnected_cb	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:296:6:bt_cap_stream_ops_register_bap	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:321:6:bt_cap_stream_ops_register	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:338:5:bt_cap_stream_send	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:349:5:bt_cap_stream_send_ts	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/audio/cap_stream.c:361:5:bt_cap_stream_get_tx_sync	0	static

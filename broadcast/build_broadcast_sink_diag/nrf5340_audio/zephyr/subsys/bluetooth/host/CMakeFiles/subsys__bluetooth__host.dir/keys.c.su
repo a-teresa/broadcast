@@ -1,0 +1,16 @@
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:327:13:add_id_cb	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:552:13:id_add	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:105:17:bt_keys_get_addr.part.0	32	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:567:12:keys_commit	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:100:6:bt_keys_reset	0	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:105:17:bt_keys_get_addr	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:178:6:bt_foreach_bond	32	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:198:6:bt_keys_foreach_type	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:212:17:bt_keys_find	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:230:17:bt_keys_get_type	16	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:253:17:bt_keys_find_irk	24	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:302:17:bt_keys_find_addr	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:320:6:bt_keys_add_type	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:334:6:bt_keys_clear	8	static
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:427:12:keys_set	272	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/keys.c:387:5:bt_keys_store	8	static

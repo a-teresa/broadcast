@@ -1,0 +1,8 @@
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:443:14:settings_nvs_storage_get	0	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:43:16:settings_nvs_read_fn	8	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:215:12:settings_nvs_save	128	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:123:12:settings_nvs_load	128	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:60:5:settings_nvs_src	8	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:68:5:settings_nvs_dst	8	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:358:5:settings_nvs_backend_init	24	static
+/home/t/asset-tracker-template/zephyr/subsys/settings/src/settings_nvs.c:385:5:settings_backend_init	32	static

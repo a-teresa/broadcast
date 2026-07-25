@@ -1,0 +1,3 @@
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_helpers.c:13:5:oberon_ct_compare	4	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_helpers.c:24:5:oberon_ct_compare_zero	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_helpers.c:34:6:oberon_xor	4	static

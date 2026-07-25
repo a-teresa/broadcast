@@ -1,0 +1,6 @@
+/home/t/asset-tracker-template/zephyr/kernel/timer.c:71:6:z_timer_expiration_handler	24	static
+/home/t/asset-tracker-template/zephyr/kernel/timer.c:165:6:k_timer_init	0	static
+/home/t/asset-tracker-template/zephyr/kernel/timer.c:193:6:z_impl_k_timer_start	32	static
+/home/t/asset-tracker-template/zephyr/kernel/timer.c:255:6:z_impl_k_timer_stop	8	static
+/home/t/asset-tracker-template/zephyr/kernel/timer.c:294:10:z_impl_k_timer_status_get	16	static
+/home/t/asset-tracker-template/zephyr/kernel/timer.c:314:10:z_impl_k_timer_status_sync	32	static

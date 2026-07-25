@@ -1,0 +1,9 @@
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:79:13:on_button_debounce_timeout	0	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:130:13:button_publish_thread	32	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:88:12:pin_to_btn_idx	8	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:271:12:cmd_push_btn	48	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:258:12:cmd_print_all_btns	32	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:149:13:button_isr.part.0	40	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:149:13:button_isr	0	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:183:5:button_pressed	32	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/button_handler.c:216:5:button_handler_init	40	static

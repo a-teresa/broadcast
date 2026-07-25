@@ -1,0 +1,6 @@
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_lms.c:78:21:check_lms_key	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_lms.c:97:21:oberon_lms_verify	200	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_lms.c:290:14:oberon_import_lms_key	32	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_lms.c:313:14:oberon_import_hss_key	32	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_lms.c:339:14:oberon_lms_verify_message	16	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_lms.c:351:14:oberon_hss_verify_message	40	static

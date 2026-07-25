@@ -1,0 +1,5 @@
+/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/fault.c:492:17:usage_fault.constprop	8	static
+/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/fault.c:336:12:bus_fault.constprop	24	static
+/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/fault.c:180:17:mem_manage_fault.constprop	24	static
+/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/fault.c:1025:6:z_arm_fault	176	dynamic,bounded
+/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/fault.c:1093:6:z_arm_fault_init	0	static

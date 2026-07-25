@@ -1,0 +1,10 @@
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:79:12:find_and_stack	24	static
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:130:13:rotate	24	static
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:102:16:z_rb_get_minmax	0	static
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:219:6:rb_insert	48	dynamic
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:372:6:rb_remove	56	dynamic
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:504:6:z_rb_walk	56	static
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:514:16:z_rb_child	0	static
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:519:5:z_rb_is_black	0	static
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:524:6:rb_contains	16	static
+/home/t/asset-tracker-template/zephyr/lib/utils/rb.c:564:16:z_rb_foreach_next	12	static

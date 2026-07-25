@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/zephyr/lib/utils/hex.c:12:5:char2hex	0	static
+/home/t/asset-tracker-template/zephyr/lib/utils/hex.c:27:5:hex2char	0	static
+/home/t/asset-tracker-template/zephyr/lib/utils/hex.c:40:8:bin2hex	12	static
+/home/t/asset-tracker-template/zephyr/lib/utils/hex.c:55:8:hex2bin	16	static

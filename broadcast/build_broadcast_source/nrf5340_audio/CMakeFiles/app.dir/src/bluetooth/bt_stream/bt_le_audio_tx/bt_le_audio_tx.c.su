@@ -1,0 +1,5 @@
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/bt_le_audio_tx/bt_le_audio_tx.c:84:12:iso_stream_send	104	dynamic,bounded
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/bt_le_audio_tx/bt_le_audio_tx.c:191:5:bt_le_audio_tx_send	168	dynamic,bounded
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/bt_le_audio_tx/bt_le_audio_tx.c:338:5:bt_le_audio_tx_stream_started	24	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/bt_le_audio_tx/bt_le_audio_tx.c:353:5:bt_le_audio_tx_stream_sent	8	static
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/bt_le_audio_tx/bt_le_audio_tx.c:364:6:bt_le_audio_tx_init	4	static

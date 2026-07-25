@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/subsys/random/random_xoshiro128.c:45:12:xoshiro128_initialize	8	static
+/home/t/asset-tracker-template/zephyr/subsys/random/random_xoshiro128.c:94:6:z_impl_sys_rand_get	40	static

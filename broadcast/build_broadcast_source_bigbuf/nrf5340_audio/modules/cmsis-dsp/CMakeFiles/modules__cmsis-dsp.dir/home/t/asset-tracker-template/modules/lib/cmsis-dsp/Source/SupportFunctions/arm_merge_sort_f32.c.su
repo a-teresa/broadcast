@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/modules/lib/cmsis-dsp/Source/SupportFunctions/arm_merge_sort_f32.c:61:13:arm_merge_sort_core_f32	40	static
+/home/t/asset-tracker-template/modules/lib/cmsis-dsp/Source/SupportFunctions/arm_merge_sort_f32.c:103:24:arm_merge_sort_f32	32	static

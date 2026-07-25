@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/nrf/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/modules/mcuboot/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/boards/cmake_install.cmake",
+		"/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/soc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

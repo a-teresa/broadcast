@@ -1,0 +1,13 @@
+# Target labels
+ mcuboot
+# Source files and their labels
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot-complete.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-build.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-configure.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-download.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-install.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-mkdir.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-patch.rule
+/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/build_broadcast_sink/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-update.rule

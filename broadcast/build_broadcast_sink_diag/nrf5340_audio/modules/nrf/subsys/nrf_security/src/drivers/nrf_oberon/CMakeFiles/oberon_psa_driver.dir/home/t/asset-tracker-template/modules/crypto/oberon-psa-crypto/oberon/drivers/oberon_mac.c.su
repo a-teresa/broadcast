@@ -1,0 +1,11 @@
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:142:21:oberon_cmac_setup	32	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:174:21:oberon_cmac_update	48	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:236:21:oberon_cmac_finish	48	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:268:21:oberon_cmac_compute	360	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:290:14:oberon_mac_sign_setup	24	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:327:14:oberon_mac_verify_setup	24	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:336:14:oberon_mac_update	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:360:14:oberon_mac_sign_finish	0	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:385:14:oberon_mac_verify_finish	40	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:417:14:oberon_mac_abort	8	static
+/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_mac.c:439:14:oberon_mac_compute	28	static

@@ -1,0 +1,17 @@
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:100:36:nrfx_power_pof_handler_get	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:112:5:nrfx_power_init	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:139:6:nrfx_power_uninit	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:166:6:nrfx_power_init_check	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:172:6:nrfx_power_pof_init	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:184:6:nrfx_power_pof_enable	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:211:6:nrfx_power_pof_disable	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:229:6:nrfx_power_pof_uninit	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:236:6:nrfx_power_sleepevt_init	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:247:6:nrfx_power_sleepevt_enable	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:263:6:nrfx_power_sleepevt_disable	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:269:6:nrfx_power_sleepevt_uninit	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:276:5:nrfx_power_constlat_mode_request	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:295:5:nrfx_power_constlat_mode_free	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:314:19:nrfx_power_mode_get	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:356:6:nrfx_power_irq_handler	8	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:423:6:CLOCK_POWER_IRQHandler	8	static

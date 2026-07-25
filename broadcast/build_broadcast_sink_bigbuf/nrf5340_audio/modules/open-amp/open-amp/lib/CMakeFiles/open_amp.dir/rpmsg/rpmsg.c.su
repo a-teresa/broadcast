@@ -1,0 +1,16 @@
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:289:13:rpmsg_unregister_endpoint	16	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:101:6:rpmsg_ept_incref	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:107:6:rpmsg_ept_decref	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:120:5:rpmsg_send_offchannel_raw	8	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:138:5:rpmsg_send_ns_message	64	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:155:6:rpmsg_hold_rx_buffer	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:168:6:rpmsg_release_rx_buffer	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:181:5:rpmsg_release_tx_buffer	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:196:7:rpmsg_get_tx_payload_buffer	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:212:5:rpmsg_get_tx_buffer_size	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:227:5:rpmsg_get_rx_buffer_size	0	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:242:5:rpmsg_send_offchannel_nocopy	8	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:259:24:rpmsg_get_endpoint	32	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:302:6:rpmsg_register_endpoint	16	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:324:5:rpmsg_create_ept	32	static
+/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/rpmsg/rpmsg.c:379:6:rpmsg_destroy_ept	8	static

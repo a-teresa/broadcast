@@ -1,0 +1,2 @@
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_init.c:65:12:unassign_eps.constprop	24	static
+/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_init.c:278:5:usbd_init_configurations	168	dynamic,bounded

@@ -1,0 +1,4 @@
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/bsp/stable/mdk/system_nrf5340_application.c:63:6:SystemCoreClockUpdate	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/bsp/stable/mdk/system_nrf5340_application.c:72:6:SystemInit	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/bsp/stable/mdk/system_nrf5340_application.c:308:6:SystemStoreFICRNS	0	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/bsp/stable/mdk/system_nrf5340_application.c:330:6:SystemLockFICRNS	0	static

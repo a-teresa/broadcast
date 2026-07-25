@@ -1,0 +1,13 @@
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:324:12:gpio_nrfx_port_get_raw	0	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:334:12:gpio_nrfx_port_set_masked_raw	4	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:350:12:gpio_nrfx_port_set_bits_raw	0	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:361:12:gpio_nrfx_port_clear_bits_raw	0	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:372:12:gpio_nrfx_port_toggle_bits	4	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:590:6:gpio_nrfx_gpiote_irq_handler	0	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:500:12:gpio_nrfx_manage_callback	16	static
+/home/t/asset-tracker-template/modules/hal/nordic/nrfx/hal/nrf_gpio.h:974:35:nrf_gpio_pin_port_decode.part.0	8	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:120:12:gpio_nrfx_pin_configure	56	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:564:13:nrfx_gpio_handler	16	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:623:12:gpio_nrfx_init	16	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:432:12:gpio_nrfx_pin_interrupt_configure	40	static
+/home/t/asset-tracker-template/zephyr/drivers/gpio/gpio_nrfx.c:69:7:gpio_nrf_gpiote_by_port_get	0	static

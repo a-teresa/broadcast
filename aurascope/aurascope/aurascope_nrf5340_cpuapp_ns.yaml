@@ -1,0 +1,17 @@
+identifier: aurascope/nrf5340/cpuapp/ns
+name: Aurascope-NRF5340-application-MCU-Non-Secure
+type: mcu
+arch: arm
+toolchain:
+  - gnuarmemb
+  - zephyr
+ram: 192
+flash: 192
+supported:
+  - i2c
+  - spi
+  - pwm
+  - watchdog
+  - usb_device
+vendor: nordic
+sysbuild: true

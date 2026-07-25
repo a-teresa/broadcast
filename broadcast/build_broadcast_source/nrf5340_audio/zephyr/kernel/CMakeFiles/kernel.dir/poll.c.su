@@ -1,0 +1,16 @@
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:172:20:clear_event_registration	8	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:588:13:triggered_work_expiration_handler	0	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:434:12:signal_poll_event.constprop	24	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:565:13:triggered_work_handler	32	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:229:19:register_events	48	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:43:6:k_poll_event_init	8	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:283:5:z_impl_k_poll	56	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:460:6:z_handle_obj_poll_events	24	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:475:6:z_impl_k_poll_signal_init	0	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:494:6:z_impl_k_poll_signal_reset	0	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:501:6:z_impl_k_poll_signal_check	0	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:522:5:z_impl_k_poll_signal_raise	16	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:648:6:k_work_poll_init	16	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:661:5:k_work_poll_submit_to_queue	56	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:774:5:k_work_poll_submit	4	static
+/home/t/asset-tracker-template/zephyr/kernel/poll.c:789:5:k_work_poll_cancel	32	static
