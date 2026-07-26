@@ -1,6 +1,0 @@
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_lfclk.c:190:5:nrfx_clock_lfclk_init	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_lfclk.c:213:6:nrfx_clock_lfclk_uninit	16	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_lfclk.c:222:6:nrfx_clock_lfclk_init_check	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_lfclk.c:227:6:nrfx_clock_lfclk_start	16	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_lfclk.c:288:6:nrfx_clock_lfclk_stop	16	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_lfclk.c:417:6:nrfx_clock_lfclk_irq_handler	24	static

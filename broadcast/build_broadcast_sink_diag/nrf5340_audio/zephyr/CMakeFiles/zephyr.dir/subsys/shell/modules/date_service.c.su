@@ -1,3 +1,0 @@
-/home/t/asset-tracker-template/zephyr/subsys/shell/modules/date_service.c:81:12:get_h_m_s	32	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/modules/date_service.c:135:12:cmd_date_set	104	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/modules/date_service.c:185:12:cmd_date_get	80	static

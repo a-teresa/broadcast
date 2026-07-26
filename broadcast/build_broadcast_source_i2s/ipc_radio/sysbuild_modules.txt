@@ -1,2 +1,0 @@
-"nrf":"/home/t/asset-tracker-template/nrf":"/home/t/asset-tracker-template/nrf/sysbuild"
-"mcuboot":"/home/t/asset-tracker-template/bootloader/mcuboot":"/home/t/asset-tracker-template/bootloader/mcuboot/boot/zephyr/sysbuild"

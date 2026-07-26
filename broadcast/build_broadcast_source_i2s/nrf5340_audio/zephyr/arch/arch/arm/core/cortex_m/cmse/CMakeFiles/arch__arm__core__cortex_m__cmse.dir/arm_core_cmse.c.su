@@ -1,5 +1,0 @@
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/cmse/arm_core_cmse.c:10:5:arm_cmse_mpu_region_get	0	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/cmse/arm_core_cmse.c:33:5:arm_cmse_addr_read_ok	0	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/cmse/arm_core_cmse.c:38:5:arm_cmse_addr_readwrite_ok	0	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/cmse/arm_core_cmse.c:62:5:arm_cmse_addr_range_read_ok	8	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/cmse/arm_core_cmse.c:67:5:arm_cmse_addr_range_readwrite_ok	8	static

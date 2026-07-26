@@ -1,7 +1,0 @@
-/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim_common.c:17:5:i2c_nrfx_twim_recover_bus	24	static
-/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim_common.c:45:5:i2c_nrfx_twim_configure	8	static
-/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim_common.c:73:5:i2c_nrfx_twim_msg_transfer	48	static
-/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim_common.c:95:6:twim_nrfx_pm_resume	24	static
-/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim_common.c:103:6:twim_nrfx_pm_suspend	16	static
-/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim_common.c:111:5:twim_nrfx_pm_action	24	static
-/home/t/asset-tracker-template/zephyr/drivers/i2c/i2c_nrfx_twim_common.c:127:5:i2c_nrfx_twim_common_init	64	dynamic,bounded

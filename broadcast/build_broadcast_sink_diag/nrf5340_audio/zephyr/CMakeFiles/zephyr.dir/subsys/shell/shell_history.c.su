@@ -1,4 +1,0 @@
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_history.c:23:6:z_shell_history_mode_exit	0	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_history.c:28:6:z_shell_history_get	16	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_history.c:71:6:z_shell_history_put	32	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_history.c:109:6:z_shell_history_purge	16	static

@@ -1,9 +1,0 @@
-/home/t/asset-tracker-template/zephyr/include/zephyr/sys/byteorder.h:686:20:sys_memcpy_swap.part.0	8	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:197:13:generate_dh_key	176	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:128:13:generate_pub_key	128	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:85:6:bt_pub_key_is_debug	8	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:90:6:bt_pub_key_is_valid	112	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:263:5:bt_pub_key_gen	8	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:307:6:bt_pub_key_hci_disrupted	16	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:322:16:bt_pub_key_get	0	static
-/home/t/asset-tracker-template/zephyr/subsys/bluetooth/host/ecc.c:335:5:bt_dh_key_gen	8	static

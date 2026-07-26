@@ -1,2 +1,0 @@
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_common.c:10:5:spi_nrfx_wake_init	48	static
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_common.c:39:5:spi_nrfx_wake_request	32	static

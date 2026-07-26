@@ -1,4 +1,0 @@
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/utils/error_handler.c:74:6:assert_post_action	64	dynamic,bounded
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/utils/error_handler.c:38:6:error_handler	32	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/utils/error_handler.c:69:6:k_sys_fatal_error_handler	8	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/utils/error_handler.c:63:6:bt_ctlr_assert_handle	64	dynamic,bounded

@@ -1,6 +1,0 @@
-/home/t/asset-tracker-template/zephyr/kernel/pipe.c:37:12:wait_for	40	static
-/home/t/asset-tracker-template/zephyr/kernel/pipe.c:67:6:z_impl_k_pipe_init	8	static
-/home/t/asset-tracker-template/zephyr/kernel/pipe.c:147:5:z_impl_k_pipe_write	104	static
-/home/t/asset-tracker-template/zephyr/kernel/pipe.c:220:5:z_impl_k_pipe_read	88	static
-/home/t/asset-tracker-template/zephyr/kernel/pipe.c:273:6:z_impl_k_pipe_reset	24	static
-/home/t/asset-tracker-template/zephyr/kernel/pipe.c:287:6:z_impl_k_pipe_close	24	static

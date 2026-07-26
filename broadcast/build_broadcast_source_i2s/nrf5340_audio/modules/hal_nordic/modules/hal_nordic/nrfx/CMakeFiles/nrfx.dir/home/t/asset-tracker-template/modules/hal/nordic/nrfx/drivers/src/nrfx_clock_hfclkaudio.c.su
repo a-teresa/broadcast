@@ -1,6 +1,0 @@
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclkaudio.c:65:5:nrfx_clock_hfclkaudio_init	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclkaudio.c:80:6:nrfx_clock_hfclkaudio_uninit	16	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclkaudio.c:90:6:nrfx_clock_hfclkaudio_init_check	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclkaudio.c:95:6:nrfx_clock_hfclkaudio_start	8	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclkaudio.c:113:6:nrfx_clock_hfclkaudio_stop	16	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_clock_hfclkaudio.c:120:6:nrfx_clock_hfclkaudio_irq_handler	0	static

@@ -1,9 +1,0 @@
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:22:13:is_valid_bit_depth.part.0	8	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:41:13:is_valid_size.part.0	8	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:52:5:pscm_zero_pad	32	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:91:5:pscm_copy_pad	24	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:119:5:pscm_combine	32	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:145:5:pscm_one_channel_split	24	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:180:5:pscm_two_channel_split	24	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:206:5:pscm_interleave	24	static
-/home/t/asset-tracker-template/nrf/lib/pcm_stream_channel_modifier/pcm_stream_channel_modifier.c:244:5:pscm_deinterleave	20	static

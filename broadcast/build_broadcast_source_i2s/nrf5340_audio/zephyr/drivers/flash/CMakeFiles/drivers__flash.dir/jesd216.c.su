@@ -1,8 +1,0 @@
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:26:5:jesd216_bfp_read_support	0	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:139:5:jesd216_bfp_erase	8	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:166:5:jesd216_bfp_erase_type_times	8	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:210:5:jesd216_bfp_decode_dw11	0	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:264:5:jesd216_bfp_decode_dw14	0	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:306:5:jesd216_bfp_decode_dw15	0	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:328:5:jesd216_bfp_decode_dw16	4	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/jesd216.c:347:5:jesd216_bfp_decode_dw19	0	static

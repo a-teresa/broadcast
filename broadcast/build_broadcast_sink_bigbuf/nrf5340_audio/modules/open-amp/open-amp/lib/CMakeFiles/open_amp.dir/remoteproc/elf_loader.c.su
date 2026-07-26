@@ -1,7 +1,0 @@
-/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/elf_loader.c:650:19:elf_get_entry	0	static
-/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/elf_loader.c:695:5:elf_get_load_state	0	static
-/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/elf_loader.c:395:5:elf_load_header	48	static
-/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/elf_loader.c:622:6:elf_release	8	static
-/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/elf_loader.c:670:5:elf_locate_rsc_table	40	static
-/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/elf_loader.c:534:5:elf_load	64	static
-/home/t/asset-tracker-template/modules/lib/open-amp/open-amp/lib/remoteproc/elf_loader.c:385:5:elf_identify	0	static

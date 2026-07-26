@@ -1,2 +1,0 @@
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/hal/nrf_gpio.h:974:35:nrf_gpio_pin_port_decode.part.0	8	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_twi_twim.c:44:5:nrfx_twi_twim_bus_recover	56	static

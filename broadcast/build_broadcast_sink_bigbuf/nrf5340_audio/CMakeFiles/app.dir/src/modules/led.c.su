@@ -1,8 +1,0 @@
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:120:6:led_blink_timer_handler	0	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:77:12:led_set_int	24	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:130:13:led_blink_work_handler	24	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:150:12:led_set	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:174:5:led_on	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:200:5:led_off	8	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:210:5:led_blink	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/modules/led.c:237:5:led_init	48	static

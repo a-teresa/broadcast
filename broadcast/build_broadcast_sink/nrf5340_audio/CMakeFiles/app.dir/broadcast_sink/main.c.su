@@ -1,6 +1,0 @@
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/broadcast_sink/main.c:317:13:bt_mgmt_msg_sub_thread	88	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/broadcast_sink/main.c:182:13:le_audio_msg_sub_thread	96	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/broadcast_sink/main.c:76:13:button_msg_sub_thread	48	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/broadcast_sink/main.c:555:9:stream_state_get	0	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/broadcast_sink/main.c:560:6:streamctrl_send	0	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/broadcast_sink/main.c:567:5:main	224	dynamic,bounded

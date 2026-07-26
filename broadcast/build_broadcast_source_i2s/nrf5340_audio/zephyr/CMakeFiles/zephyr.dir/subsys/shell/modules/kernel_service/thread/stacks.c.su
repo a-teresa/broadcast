@@ -1,2 +1,0 @@
-/home/t/asset-tracker-template/zephyr/subsys/shell/modules/kernel_service/thread/stacks.c:53:12:cmd_kernel_thread_stacks	80	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/modules/kernel_service/thread/stacks.c:22:13:shell_stack_dump	56	static

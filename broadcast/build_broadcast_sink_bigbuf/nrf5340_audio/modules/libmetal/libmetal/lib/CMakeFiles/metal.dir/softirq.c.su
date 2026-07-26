@@ -1,5 +1,0 @@
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/softirq.c:28:13:metal_softirq_set_enable	0	static
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/softirq.c:50:6:metal_softirq_set	0	static
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/softirq.c:65:5:metal_softirq_init	0	static
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/softirq.c:70:5:metal_softirq_allocate	8	static
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/softirq.c:84:6:metal_softirq_dispatch	32	static

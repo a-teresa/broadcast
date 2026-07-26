@@ -1,2 +1,0 @@
-/home/t/asset-tracker-template/nrf/subsys/nrf_security/src/utils/nrf_security_mutexes.c:19:5:nrf_security_mutex_lock	8	static
-/home/t/asset-tracker-template/nrf/subsys/nrf_security/src/utils/nrf_security_mutexes.c:27:5:nrf_security_mutex_unlock	8	static

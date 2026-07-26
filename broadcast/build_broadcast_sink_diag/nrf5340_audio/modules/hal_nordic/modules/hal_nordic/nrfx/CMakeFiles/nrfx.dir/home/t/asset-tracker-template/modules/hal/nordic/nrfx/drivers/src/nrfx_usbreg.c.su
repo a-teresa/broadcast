@@ -1,7 +1,0 @@
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:39:29:nrfx_usbreg_handler_get	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:44:6:nrfx_usbreg_init	16	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:57:6:nrfx_usbreg_enable	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:64:6:nrfx_usbreg_disable	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:71:6:nrfx_usbreg_uninit	8	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:78:6:nrfx_usbreg_init_check	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:83:6:USBREGULATOR_IRQHandler	8	static

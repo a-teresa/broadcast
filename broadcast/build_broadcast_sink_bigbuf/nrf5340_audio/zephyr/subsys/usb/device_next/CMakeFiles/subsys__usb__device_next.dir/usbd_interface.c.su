@@ -1,4 +1,0 @@
-/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_interface.c:53:12:usbd_interface_modify	136	dynamic,bounded
-/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_interface.c:110:5:usbd_interface_shutdown	24	static
-/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_interface.c:142:5:usbd_interface_default	40	static
-/home/t/asset-tracker-template/zephyr/subsys/usb/device_next/usbd_interface.c:168:5:usbd_interface_set	88	dynamic,bounded

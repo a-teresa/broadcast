@@ -1,9 +1,0 @@
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:81:6:arch_timing_init	8	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:87:6:arch_timing_start	0	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:92:6:arch_timing_stop	0	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:97:10:arch_timing_counter_get	0	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:102:10:arch_timing_cycles_get	8	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:107:10:arch_timing_freq_get	8	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:112:10:arch_timing_cycles_to_ns	16	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:117:10:arch_timing_cycles_to_ns_avg	24	static
-/home/t/asset-tracker-template/zephyr/arch/arm/core/cortex_m/timing.c:122:10:arch_timing_freq_get_mhz	8	static

@@ -1,7 +1,0 @@
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/library/platform.c:25:14:platform_calloc_uninit	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/library/platform.c:36:13:platform_free_uninit	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/library/platform.c:47:7:mbedtls_calloc	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/library/platform.c:52:6:mbedtls_free	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/library/platform.c:57:5:mbedtls_platform_set_calloc_free	4	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/library/platform.c:386:5:mbedtls_platform_setup	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/library/platform.c:396:6:mbedtls_platform_teardown	0	static

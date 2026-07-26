@@ -1,2 +1,0 @@
-# Load board Kconfig descriptions.
-osource "/home/t/asset-tracker-template/nrf/boards/aurascope/aurascope/Kconfig.aurascope"

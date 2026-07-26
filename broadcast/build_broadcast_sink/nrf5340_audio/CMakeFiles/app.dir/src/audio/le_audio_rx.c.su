@@ -1,4 +1,0 @@
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/le_audio_rx.c:251:13:audio_datapath_thread	40	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/le_audio_rx.c:62:12:audio_frame_add	8	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/le_audio_rx.c:101:6:le_audio_rx_data_handler	144	dynamic,bounded
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/audio/le_audio_rx.c:291:5:le_audio_rx_init	48	static

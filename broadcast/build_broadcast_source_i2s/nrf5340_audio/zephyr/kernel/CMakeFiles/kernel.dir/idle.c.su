@@ -1,2 +1,0 @@
-/home/t/asset-tracker-template/zephyr/kernel/idle.c:22:6:idle	8	static
-/home/t/asset-tracker-template/zephyr/kernel/idle.c:97:13:arch_spin_relax	8	static

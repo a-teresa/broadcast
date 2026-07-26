@@ -1,7 +1,0 @@
-/home/t/asset-tracker-template/zephyr/drivers/disk/ramdisk.c:39:12:disk_ram_access_status	0	static
-/home/t/asset-tracker-template/zephyr/drivers/disk/ramdisk.c:98:12:disk_ram_access_ioctl	0	static
-/home/t/asset-tracker-template/zephyr/drivers/disk/ramdisk.c:129:12:disk_ram_init	0	static
-/home/t/asset-tracker-template/zephyr/drivers/disk/ramdisk.c:80:12:disk_ram_access_erase	16	static
-/home/t/asset-tracker-template/zephyr/drivers/disk/ramdisk.c:62:12:disk_ram_access_write	16	static
-/home/t/asset-tracker-template/zephyr/drivers/disk/ramdisk.c:44:12:disk_ram_access_read	16	static
-/home/t/asset-tracker-template/zephyr/drivers/disk/ramdisk.c:124:12:disk_ram_access_init	0	static

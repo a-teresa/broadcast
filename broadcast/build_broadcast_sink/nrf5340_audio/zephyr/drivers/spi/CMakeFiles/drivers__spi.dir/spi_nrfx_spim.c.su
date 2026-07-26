@@ -1,8 +1,0 @@
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_spim.c:674:1:irq_connect0	0	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/hal/nrf_gpio.h:974:35:nrf_gpio_pin_port_decode.part.0	8	static
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_spim.c:221:13:finish_transaction	16	static
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_spim.c:240:13:transfer_next_chunk	40	static
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_spim.c:314:13:event_handler	16	static
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_spim.c:454:12:spi_nrfx_release	8	static
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_spim.c:434:12:spi_nrfx_transceive	128	dynamic,bounded
-/home/t/asset-tracker-template/zephyr/drivers/spi/spi_nrfx_spim.c:538:12:spi_nrfx_init	88	dynamic,bounded

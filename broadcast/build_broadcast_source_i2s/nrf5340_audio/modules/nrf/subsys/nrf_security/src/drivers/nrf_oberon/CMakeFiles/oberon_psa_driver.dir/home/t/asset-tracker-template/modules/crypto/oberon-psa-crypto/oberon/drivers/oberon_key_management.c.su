@@ -1,4 +1,0 @@
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_key_management.c:24:14:oberon_export_public_key	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_key_management.c:90:14:oberon_import_key	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_key_management.c:198:14:oberon_generate_key	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_key_management.c:221:14:oberon_derive_key	0	static

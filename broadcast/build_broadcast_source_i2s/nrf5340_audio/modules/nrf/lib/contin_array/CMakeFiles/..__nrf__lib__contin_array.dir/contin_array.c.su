@@ -1,3 +1,0 @@
-/home/t/asset-tracker-template/nrf/lib/contin_array/contin_array.c:32:5:contin_array_create	16	static
-/home/t/asset-tracker-template/nrf/lib/contin_array/contin_array.c:57:5:contin_array_buf_create	48	static
-/home/t/asset-tracker-template/nrf/lib/contin_array/contin_array.c:147:5:contin_array_net_buf_create	32	static

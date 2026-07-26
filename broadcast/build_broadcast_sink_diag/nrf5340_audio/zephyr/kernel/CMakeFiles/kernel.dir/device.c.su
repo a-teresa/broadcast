@@ -1,7 +1,0 @@
-/home/t/asset-tracker-template/zephyr/kernel/device.c:18:5:do_device_init	16	static
-/home/t/asset-tracker-template/zephyr/kernel/device.c:63:5:z_impl_device_init	16	static
-/home/t/asset-tracker-template/zephyr/kernel/device.c:83:22:z_impl_device_get_binding	24	static
-/home/t/asset-tracker-template/zephyr/kernel/device.c:126:22:z_impl_device_get_by_dt_nodelabel	40	static
-/home/t/asset-tracker-template/zephyr/kernel/device.c:176:8:z_device_get_all_static	0	static
-/home/t/asset-tracker-template/zephyr/kernel/device.c:186:6:z_impl_device_is_ready	0	static
-/home/t/asset-tracker-template/zephyr/kernel/device.c:199:5:z_impl_device_deinit	0	static
