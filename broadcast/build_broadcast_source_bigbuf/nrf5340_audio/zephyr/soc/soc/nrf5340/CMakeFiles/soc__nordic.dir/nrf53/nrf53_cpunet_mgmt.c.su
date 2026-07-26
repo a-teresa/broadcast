@@ -1,5 +1,0 @@
-/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/nrf53_cpunet_mgmt.c:34:13:assign_pins	16	static
-/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/nrf53_cpunet_mgmt.c:58:13:onoff_stop	16	static
-/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/nrf53_cpunet_mgmt.c:46:13:onoff_start	24	static
-/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/nrf53_cpunet_mgmt.c:70:5:nrf53_cpunet_mgmt_init	0	static
-/home/t/asset-tracker-template/zephyr/soc/nordic/nrf53/nrf53_cpunet_mgmt.c:80:6:nrf53_cpunet_enable	24	static

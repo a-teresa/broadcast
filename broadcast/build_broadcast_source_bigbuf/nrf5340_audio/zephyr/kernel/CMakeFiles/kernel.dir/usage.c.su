@@ -1,6 +1,0 @@
-/home/t/asset-tracker-template/zephyr/kernel/usage.c:74:6:z_sched_usage_start	8	static
-/home/t/asset-tracker-template/zephyr/kernel/usage.c:99:6:z_sched_usage_stop	16	static
-/home/t/asset-tracker-template/zephyr/kernel/usage.c:122:6:z_sched_cpu_usage	24	static
-/home/t/asset-tracker-template/zephyr/kernel/usage.c:172:6:z_sched_thread_usage	24	static
-/home/t/asset-tracker-template/zephyr/kernel/usage.c:277:6:k_sys_runtime_stats_enable	8	static
-/home/t/asset-tracker-template/zephyr/kernel/usage.c:310:6:k_sys_runtime_stats_disable	16	static

@@ -1,8 +1,0 @@
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:23:5:bt_r_and_c_volume_up	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:44:5:bt_r_and_c_volume_down	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:65:5:bt_r_and_c_volume_set	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:87:5:bt_r_and_c_volume_mute	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:108:5:bt_r_and_c_volume_unmute	16	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:129:5:bt_r_and_c_discover	0	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:146:5:bt_r_and_c_uuid_populate	0	static
-/home/t/asset-tracker-template/nrf/applications/nrf5340_audio/src/bluetooth/bt_rendering_and_capture/bt_rendering_and_capture.c:161:5:bt_r_and_c_init	0	static

@@ -1,5 +1,0 @@
-/home/t/asset-tracker-template/zephyr/kernel/init.c:220:13:z_sys_init_run_level	16	static
-/home/t/asset-tracker-template/zephyr/kernel/init.c:283:13:bg_thread_main	48	static
-/home/t/asset-tracker-template/zephyr/kernel/init.c:393:6:z_init_cpu	48	static
-/home/t/asset-tracker-template/zephyr/kernel/init.c:494:13:z_early_rand_get	48	static
-/home/t/asset-tracker-template/zephyr/kernel/init.c:538:20:z_cstart	32	static

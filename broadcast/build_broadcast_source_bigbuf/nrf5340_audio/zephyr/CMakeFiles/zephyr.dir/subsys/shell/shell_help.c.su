@@ -1,6 +1,0 @@
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_ops.h:18:20:z_shell_raw_fprintf	12	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_help.c:19:13:formatted_text_print.constprop	48	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_help.c:116:13:formatted_structured_help_print	24	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_help.c:179:6:z_shell_help_subcmd_print	72	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_help.c:210:6:z_shell_help_cmd_print	32	static
-/home/t/asset-tracker-template/zephyr/subsys/shell/shell_help.c:227:6:z_shell_help_request	8	static

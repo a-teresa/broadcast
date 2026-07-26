@@ -1,2 +1,0 @@
-# Load Zephyr board defconfig descriptions.
-osource "/home/t/asset-tracker-template/nrf/boards/aurascope/aurascope/Kconfig.defconfig"

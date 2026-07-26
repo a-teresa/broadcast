@@ -1,4 +1,0 @@
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/io.c:12:6:metal_io_init	64	static
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/io.c:35:5:metal_io_block_read	24	static
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/io.c:72:5:metal_io_block_write	24	static
-/home/t/asset-tracker-template/modules/hal/libmetal/libmetal/lib/io.c:109:5:metal_io_block_set	24	static

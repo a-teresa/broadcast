@@ -1,8 +1,0 @@
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:177:5:nrfx_i2s_init	64	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:289:6:nrfx_i2s_init_check	8	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:297:5:nrfx_i2s_start	24	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:378:5:nrfx_i2s_next_buffers_set	24	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:435:6:nrfx_i2s_stop	8	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:255:6:nrfx_i2s_uninit	24	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:463:5:nrfx_i2s_prescalers_calc	64	static
-/home/t/asset-tracker-template/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:594:6:nrfx_i2s_irq_handler	32	static

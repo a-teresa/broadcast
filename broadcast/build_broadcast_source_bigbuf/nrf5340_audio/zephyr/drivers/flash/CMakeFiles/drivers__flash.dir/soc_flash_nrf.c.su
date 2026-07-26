@@ -1,8 +1,0 @@
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:286:13:flash_nrf_pages_layout	0	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:296:1:flash_nrf_get_parameters	0	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:274:12:flash_nrf_get_size	8	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:184:12:flash_nrf_write	24	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:314:12:nrf_flash_init	8	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:149:12:flash_nrf_read.part.0	16	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:149:12:flash_nrf_read	16	static
-/home/t/asset-tracker-template/zephyr/drivers/flash/soc_flash_nrf.c:225:12:flash_nrf_erase	32	static

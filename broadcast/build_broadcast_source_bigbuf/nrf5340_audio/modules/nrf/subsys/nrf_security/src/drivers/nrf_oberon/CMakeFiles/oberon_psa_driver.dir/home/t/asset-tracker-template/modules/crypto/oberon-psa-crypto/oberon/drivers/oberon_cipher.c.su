@@ -1,8 +1,0 @@
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:113:14:oberon_cipher_encrypt_setup	24	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:122:14:oberon_cipher_decrypt_setup	24	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:131:14:oberon_cipher_set_iv	0	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:174:14:oberon_cipher_update	24	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:258:14:oberon_cipher_finish	16	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:304:14:oberon_cipher_abort	8	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:325:14:oberon_cipher_encrypt	304	static
-/home/t/asset-tracker-template/modules/crypto/oberon-psa-crypto/oberon/drivers/oberon_cipher.c:430:14:oberon_cipher_decrypt	304	static

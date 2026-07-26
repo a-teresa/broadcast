@@ -1,4 +1,0 @@
-/home/t/asset-tracker-template/modules/crypto/mbedtls/library/base64.c:27:15:mbedtls_ct_base64_enc_char	28	static
-/home/t/asset-tracker-template/modules/crypto/mbedtls/library/base64.c:42:13:mbedtls_ct_base64_dec_value	28	static
-/home/t/asset-tracker-template/modules/crypto/mbedtls/library/base64.c:62:5:mbedtls_base64_encode	48	static
-/home/t/asset-tracker-template/modules/crypto/mbedtls/library/base64.c:129:5:mbedtls_base64_decode	40	static

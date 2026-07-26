@@ -1,2 +1,0 @@
-/home/t/asset-tracker-template/zephyr/drivers/entropy/entropy_bt_hci.c:14:12:entropy_bt_init	0	static
-/home/t/asset-tracker-template/zephyr/drivers/entropy/entropy_bt_hci.c:20:12:entropy_bt_get_entropy	0	static
